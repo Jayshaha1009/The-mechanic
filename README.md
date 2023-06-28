@@ -6,6 +6,7 @@ A
 ## technologies used
 * HTML
 * CSS
+* java script
 
 
 download zip or clone repo (all required files are included)
